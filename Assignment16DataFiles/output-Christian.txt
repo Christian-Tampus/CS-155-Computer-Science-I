@@ -1,0 +1,92 @@
+
+--------------------------------------------------------------------------------
+               Employee Name: Employee User Name 1
+                 Hourly Rate: 7.25
+                 Input Hours: 1
+          Actual Hours Payed: 1 Hrs.
+     Regular Hourly Rate Pay: $7.25
+                   Total Pay: $7.25
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+               Employee Name: Employee User Name 2
+                 Hourly Rate: 8.49
+                 Input Hours: 2.70
+          Actual Hours Payed: 2 Hrs.
+     Regular Hourly Rate Pay: $16.98
+                   Total Pay: $16.98
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+               Employee Name: Employee User Name 3
+                 Hourly Rate: 9.75
+                 Input Hours: 3.15
+          Actual Hours Payed: 3 Hrs.
+     Regular Hourly Rate Pay: $19.50
+    Time And A Half Rate Pay: $14.62
+                   Total Pay: $34.12
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+               Employee Name: Employee User Name 4
+                 Hourly Rate: 10.14
+                 Input Hours: 4.00
+          Actual Hours Payed: 4 Hrs.
+     Regular Hourly Rate Pay: $20.28
+    Time And A Half Rate Pay: $30.42
+                   Total Pay: $50.70
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+               Employee Name: Employee User Name 5
+                 Hourly Rate: 11.89
+                 Input Hours: 5.99
+          Actual Hours Payed: 5 Hrs.
+     Regular Hourly Rate Pay: $23.78
+    Time And A Half Rate Pay: $53.51
+                   Total Pay: $77.28
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+               Employee Name: Employee User Name 6
+                 Hourly Rate: 13.43
+                 Input Hours: 6.18
+          Actual Hours Payed: 6 Hrs.
+     Regular Hourly Rate Pay: $26.86
+    Time And A Half Rate Pay: $60.44
+          2.5 Times Rate Pay: $33.58
+                   Total Pay: $120.87
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+               Employee Name: Employee User Name 7
+                 Hourly Rate: 15.27
+                 Input Hours: 7.62
+          Actual Hours Payed: 7 Hrs.
+     Regular Hourly Rate Pay: $30.54
+    Time And A Half Rate Pay: $68.72
+          2.5 Times Rate Pay: $76.35
+                   Total Pay: $175.60
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+               Employee Name: Employee User Name 8
+                 Hourly Rate: 17.61
+                 Input Hours: 8.00
+          Actual Hours Payed: 8 Hrs.
+     Regular Hourly Rate Pay: $35.22
+    Time And A Half Rate Pay: $79.25
+          2.5 Times Rate Pay: $132.07
+                   Total Pay: $246.54
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+               Employee Name: Employee User Name 9
+                 Hourly Rate: 123.00
+                 Input Hours: 15.00
+          Actual Hours Payed: 15 Hrs.
+     Regular Hourly Rate Pay: $246.00
+    Time And A Half Rate Pay: $553.50
+          2.5 Times Rate Pay: $3075.00
+                   Total Pay: $3874.50
+--------------------------------------------------------------------------------

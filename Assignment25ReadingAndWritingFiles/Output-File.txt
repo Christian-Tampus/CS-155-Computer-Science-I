@@ -1,0 +1,14 @@
+1.1 1.1 Product: 1.2 Quotient: 1.0 Sum: 2.2 Difference: 0.0
+2.2 2.2 Product: 4.8 Quotient: 1.0 Sum: 4.4 Difference: 0.0
+3.3 3.3 Product: 10.9 Quotient: 1.0 Sum: 6.6 Difference: 0.0
+4.4 4.4 Product: 19.4 Quotient: 1.0 Sum: 8.8 Difference: 0.0
+5.5 5.5 Product: 30.2 Quotient: 1.0 Sum: 11.0 Difference: 0.0
+6.6 6.6 Product: 43.6 Quotient: 1.0 Sum: 13.2 Difference: 0.0
+7.7 7.7 Product: 59.3 Quotient: 1.0 Sum: 15.4 Difference: 0.0
+8.8 8.8 Product: 77.4 Quotient: 1.0 Sum: 17.6 Difference: 0.0
+9.9 9.9 Product: 98.0 Quotient: 1.0 Sum: 19.8 Difference: 0.0
+10.1 10.1 Product: 102.0 Quotient: 1.0 Sum: 20.2 Difference: 0.0
+11.1 11.1 Product: 123.4 Quotient: 1.0 Sum: 22.2 Difference: 0.0
+12.1 12.1 Product: 146.9 Quotient: 1.0 Sum: 24.2 Difference: 0.0
+47.3 12.5 Product: 591.2 Quotient: 3.8 Sum: 59.8 Difference: 34.8
+123.5 678.9 Product: 83810.2 Quotient: 0.2 Sum: 802.4 Difference: -555.4
